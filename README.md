@@ -1,24 +1,5 @@
-# pokedex
+# Pokedex
 
-## Project setup
-```
-npm install
-```
+Projeto para estudar Vue. O rsultado pode ser encontrado em: https://remmessias.github.io/pokedex/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Para fazer deploy de projetos Vue no Github pages é só seguir os passos desse artigo: https://medium.com/@Roli_Dori/deploy-vue-cli-3-project-to-github-pages-ebeda0705fbd
